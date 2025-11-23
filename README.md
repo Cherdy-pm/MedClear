@@ -6,7 +6,7 @@
 
 > A mobile-first medication education platform that delivers personalized, plain-language medication information to patients, addressing the critical 50% medication non-adherence crisis.
 
-**Product Manager:** [Shedrach Obafemi]  
+**Product Manager:** Shedrach Obafemi  
 **Timeline:** November 2025  
 **Status:** Case Study / Product Design
 
